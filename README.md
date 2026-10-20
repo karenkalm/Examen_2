@@ -5,6 +5,10 @@ App móvil multiplataforma hecha en **Flutter / Dart** para administrar un catá
 > Segunda parcial · Programación de aplicaciones · Facultad de Ingeniería, Universidad de Colima
 > Autor: **Jorge Luis Pizano Saucedo**
 
+### 🌐 Ver la app en línea: **https://karenkalm.github.io/Examen_2/**
+
+Usuario de prueba: `admin` · Contraseña: `admin123`. Las respuestas de la práctica están en [RESPUESTAS.md](RESPUESTAS.md).
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.38-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-3.10-0175C2?logo=dart) ![CI](https://github.com/karenkalm/Examen_2/actions/workflows/flutter-ci.yml/badge.svg)
 
 ---

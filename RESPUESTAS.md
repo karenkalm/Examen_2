@@ -3,6 +3,7 @@
 **Alumno:** Jorge Luis Pizano Saucedo
 **Materia:** Programación de aplicaciones
 **Proyecto:** StoreHub (Flutter / Dart), catálogo de productos con la FakeStore API (https://fakestoreapi.com/products/)
+**App en línea:** https://karenkalm.github.io/Examen_2/
 
 ---
 
