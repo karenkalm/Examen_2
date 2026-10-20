@@ -5,7 +5,7 @@ App móvil multiplataforma hecha en **Flutter / Dart** para administrar un catá
 > Segunda parcial · Programación de aplicaciones · Facultad de Ingeniería, Universidad de Colima
 > Autor: **Jorge Luis Pizano Saucedo**
 
-![Flutter](https://img.shields.io/badge/Flutter-3.38-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-3.10-0175C2?logo=dart) ![CI](https://github.com/jorgepizanosaucedo-crypto/storehub/actions/workflows/flutter-ci.yml/badge.svg)
+![Flutter](https://img.shields.io/badge/Flutter-3.38-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-3.10-0175C2?logo=dart) ![CI](https://github.com/karenkalm/Examen_2/actions/workflows/flutter-ci.yml/badge.svg)
 
 ---
 
@@ -78,6 +78,8 @@ La API responde correctamente a `POST`, `PUT` y `DELETE`, pero **no guarda los c
 ---
 
 ## Preguntas de comprensión
+
+Las respuestas también están en [RESPUESTAS.md](RESPUESTAS.md), junto con los datos del módulo de autenticación.
 
 ### 1. ¿Proporciona el código generado para el Future?
 
